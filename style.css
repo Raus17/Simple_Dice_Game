@@ -1,0 +1,27 @@
+body{
+    background-color: teal;
+}
+.dice{
+    text-align: center;
+    display:inline-block;
+}
+img{
+    width: 80%;
+}
+p{
+    font-size: 2rem;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    margin: 30px;
+    font-family:'Lobster', cursive;
+    text-shadow: 5px 0 #232323;
+    font-size: 8rem;
+    color: crimson;
+}
